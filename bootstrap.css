@@ -16,7 +16,7 @@ Textcolor accent : #00bcd4
 */
 @font-face {
  font-family: "Roboto";
- src: url(/webfont/Roboto-Regular.ttf) format("truetype");
+ src: url(/webfonts/Roboto-Regular.ttf) format("truetype");
 }
 
 
