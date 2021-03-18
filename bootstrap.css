@@ -6006,6 +6006,10 @@ a .black, td .black, .modal-body .black
 {
 	color:#1b2226;
 }
+.misp-error-container .error
+{
+	color: #ffffff;
+}
 .diagnostics-box
 {
     background-color: #28353a !important;
