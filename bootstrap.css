@@ -16,7 +16,7 @@ Textcolor accent : #00bcd4
 */
 @font-face {
  font-family: "Roboto";
- src: url(/webfonts/Roboto-Regular.ttf) format("truetype");
+ src: url(/webfont/Roboto-Regular.ttf) format("truetype");
 }
 
 
@@ -6052,6 +6052,14 @@ a .black, td .black, .modal-body .black
     color: #ff0018 !important;
 }
 #containerFormulaPolynomialSetting .add-on
+{
+	background-color: #222c30;
+}
+.popover
+{
+	color: #ffffff !important;
+}
+.correlation-container, .correlation-container > span > span
 {
 	background-color: #222c30;
 }
