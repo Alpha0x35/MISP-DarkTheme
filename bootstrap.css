@@ -6034,7 +6034,7 @@ a .black, td .black, .modal-body .black
 {
 	color: #ffffff;
 }
-#popover_choice_main tr
+#popover_choice_main, #popover_choice_main tr
 {
 	background-color: #000000;
 }
