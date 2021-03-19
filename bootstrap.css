@@ -6071,3 +6071,16 @@ a .black, td .black, .modal-body .black
 {
 	background-color: #222c30 !important;
 }
+dl dd:nth-child(4n+2), dl dt:nth-child(4n+1)
+{
+    background: #28353a !important;
+}
+#attributeList tr.blank_table_row td 
+{
+    background-color: #222c30 !important;
+}
+.tagFirstHalf
+{
+  box-shadow:none !important;
+}
+
